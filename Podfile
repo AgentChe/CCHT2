@@ -16,8 +16,6 @@ target 'CCHT2' do
   pod 'SwiftyStoreKit'
 
   pod 'OtterScaleiOS', :git => "https://github.com/AgentChe/OtterScaleiOS.git"
-  
-  pod 'Amplitude-iOS'
 end
 
 post_install do |installer|
